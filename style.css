@@ -10,7 +10,6 @@ header h1{
         background: rgb(127, 238, 232);
     }
     .foot1 {
-        margin-top: 4em;
        padding-top:1em;
        padding-bottom:1em;
         width: 100%;
@@ -29,7 +28,7 @@ header h1{
       }
     
     .main_cont{
-      min-height: calc(70vh);
+      min-height: calc(78vh);
     }
     h2 {
         /* FONT-WEIGHT: 200; */
